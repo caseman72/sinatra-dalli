@@ -1,3 +1,0 @@
-memcached -vv
-rerun rackup config.ru
-sass --watch assets:public/css
