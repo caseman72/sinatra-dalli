@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
 
   s.files = %w[
     Rakefile
-    README.textile
+    README.rdoc
     lib/sinatra/dalli.rb
     spec/sinatra-dalli_spec.rb
     spec/fixture.rb
